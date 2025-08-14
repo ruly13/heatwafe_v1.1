@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "417382240795",
+    "firebase_url": "https://tugas-akhir-gua-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tugas-akhir-gua",
+    "storage_bucket": "tugas-akhir-gua.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417382240795:android:27ed63059d4e4e44ff5ebe",
+        "android_client_info": {
+          "package_name": "com.example.heatwafe2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1bx_n53sDrSj2d5qju0L9CB_rQTI8uBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417382240795:android:8e3c30d6aa13a376ff5ebe",
+        "android_client_info": {
+          "package_name": "heat.wafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1bx_n53sDrSj2d5qju0L9CB_rQTI8uBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
